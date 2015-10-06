@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="Da Bears" APIVersion="11" Name="DaFloatText" Description="Scrolling combat text that is isolated to a movable container. This is intended to replace the default float text addon included with Wildstar.">
+    <Script Name="DaFloatText.lua"/>
+    <Form Name="DaFloatText.xml"/>
+    <ReplaceAddon Name="FloatText"/>
+</Addon>
